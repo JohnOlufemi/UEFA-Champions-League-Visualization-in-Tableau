@@ -12,12 +12,21 @@ The data was sourced from [Kaggle](https://www.kaggle.com/datasets/basharalkuwai
 
 According to the insights derived :
 
-Spanish, English, and Itallian clubs have highest number of titles with 19, 14 abd 12 among them respectively.
+Spanish, English, and Itallian clubs have highest number of titles with 19, 14, and 12 among them respectively.
 
 Real Madrid CF is the most successful club in the competition with 14 titles
 
 Real Madrid CF (464), FC Bayern Munchen (372), and FC Barcelona (333) have played the highest number of games.
 
-Cristiano Ronaldo has the highest number of appearance (183), highest number of goals bu a player (140), and most goals in a single season (17).
+Cristiano Ronaldo has the highest number of appearance (183), highest number of goals by a player (140), and most goals in a single season (17).
 
 Sir Alex Ferguson (190), Carlo Ancelotti (179), and Arsene Wenger (178) are the top three coaches with the highest appearance. 
+
+
+# Dashboard Report
+
+The [Tableau](https://public.tableau.com/app/profile/john.ogunleye/viz/UEFAChampionsLeague_16984365397210/Dashboard1?publish=yes) dashboard report for the data is presented
+
+![image](https://github.com/JohnOlufemi/UEFA-Champions-League-Visualization-in-Tableau/assets/104203741/fdc97e73-ec8a-43b8-8d9c-e10c24150594)
+
+
