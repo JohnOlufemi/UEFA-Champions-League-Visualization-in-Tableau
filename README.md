@@ -4,4 +4,4 @@ The Champions League is a yearly continental club competition organized by the E
 
 In this project, I attemtepted to analyze and visualize some historical statistics of the most prestigeous club competition in the world.
 
-The data was sourced from [[Kaggle](https://www.kaggle.com/datasets/basharalkuwaiti/champions-league-era-stat)https://www.kaggle.com/datasets/basharalkuwaiti/champions-league-era-stat] but originally provided by UEFA.com
+The data was sourced from [Kaggle](https://www.kaggle.com/datasets/basharalkuwaiti/champions-league-era-stat)https://www.kaggle.com/datasets/basharalkuwaiti/champions-league-era-stat] but originally provided by UEFA.com
