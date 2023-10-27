@@ -7,7 +7,10 @@ In this project, I attemtepted to analyze and visualize some historical statisti
 The data was sourced from [Kaggle](https://www.kaggle.com/datasets/basharalkuwaiti/champions-league-era-stats) but originally provided by [UEFA](https://www.kaggle.com/datasets/basharalkuwaiti/champions-league-era-stats](https://www.uefa.com/)https://www.uefa.com/)
 
 
+
 # Summary of Insight
+
+According to the insights derived :
 
 Spanish, English, and Itallian clubs have highest number of titles with 19, 14 abd 12 among them respectively.
 
